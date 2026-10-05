@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+*.log
+.DS_Store
+
+# Local analytics data (not a database)
+server/data/analytics.json

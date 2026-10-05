@@ -1,0 +1,349 @@
+{
+  "provider": "Google Translate static machine-generated output; not human-reviewed",
+  "locales": {
+    "as": {
+      "model": "as",
+      "exactModel": true
+    },
+    "bn": {
+      "model": "bn",
+      "exactModel": true
+    },
+    "brx": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "doi": {
+      "model": "doi",
+      "exactModel": true
+    },
+    "gu": {
+      "model": "gu",
+      "exactModel": true
+    },
+    "hi": {
+      "model": "hi",
+      "exactModel": true
+    },
+    "kn": {
+      "model": "kn",
+      "exactModel": true
+    },
+    "ks": {
+      "model": "ur",
+      "exactModel": false
+    },
+    "kok": {
+      "model": "gom",
+      "exactModel": true
+    },
+    "mai": {
+      "model": "mai",
+      "exactModel": true
+    },
+    "ml": {
+      "model": "ml",
+      "exactModel": true
+    },
+    "mni": {
+      "model": "bn",
+      "exactModel": false
+    },
+    "mr": {
+      "model": "mr",
+      "exactModel": true
+    },
+    "ne": {
+      "model": "ne",
+      "exactModel": true
+    },
+    "or": {
+      "model": "or",
+      "exactModel": true
+    },
+    "pa": {
+      "model": "pa",
+      "exactModel": true
+    },
+    "sa": {
+      "model": "sa",
+      "exactModel": true
+    },
+    "sat": {
+      "model": "sat",
+      "exactModel": true
+    },
+    "sd": {
+      "model": "sd",
+      "exactModel": true
+    },
+    "ta": {
+      "model": "ta",
+      "exactModel": true
+    },
+    "te": {
+      "model": "te",
+      "exactModel": true
+    },
+    "ur": {
+      "model": "ur",
+      "exactModel": true
+    },
+    "hne": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "raj": {
+      "model": "mwr",
+      "exactModel": false
+    },
+    "marw": {
+      "model": "mwr",
+      "exactModel": true
+    },
+    "mew": {
+      "model": "mwr",
+      "exactModel": false
+    },
+    "mewt": {
+      "model": "mwr",
+      "exactModel": false
+    },
+    "braj": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "awa": {
+      "model": "awa",
+      "exactModel": true
+    },
+    "bho": {
+      "model": "bho",
+      "exactModel": true
+    },
+    "mag": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "bnd": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "bag": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "hne2": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "gbh": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "kum": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "kang": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "pah": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "bhil": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "bhilodi": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "lad": {
+      "model": "bo",
+      "exactModel": false
+    },
+    "balti": {
+      "model": "ur",
+      "exactModel": false
+    },
+    "varh": {
+      "model": "mr",
+      "exactModel": false
+    },
+    "kha": {
+      "model": "mr",
+      "exactModel": false
+    },
+    "ahir": {
+      "model": "mr",
+      "exactModel": false
+    },
+    "malv": {
+      "model": "mr",
+      "exactModel": false
+    },
+    "kac": {
+      "model": "gu",
+      "exactModel": false
+    },
+    "paw": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "war": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "tcy": {
+      "model": "tcy",
+      "exactModel": true
+    },
+    "kod": {
+      "model": "kn",
+      "exactModel": false
+    },
+    "bad": {
+      "model": "kn",
+      "exactModel": false
+    },
+    "tod": {
+      "model": "ta",
+      "exactModel": false
+    },
+    "iru": {
+      "model": "ta",
+      "exactModel": false
+    },
+    "kurm": {
+      "model": "ta",
+      "exactModel": false
+    },
+    "lamb": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "gon": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "sam": {
+      "model": "or",
+      "exactModel": false
+    },
+    "ho": {
+      "model": "sat",
+      "exactModel": false
+    },
+    "mun": {
+      "model": "sat",
+      "exactModel": false
+    },
+    "kru": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "kha2": {
+      "model": "or",
+      "exactModel": false
+    },
+    "bhu": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "kui": {
+      "model": "or",
+      "exactModel": false
+    },
+    "kond": {
+      "model": "or",
+      "exactModel": false
+    },
+    "nag": {
+      "model": "hi",
+      "exactModel": false
+    },
+    "kha3": {
+      "model": "kha",
+      "exactModel": true
+    },
+    "garo": {
+      "model": "as",
+      "exactModel": false
+    },
+    "mizo": {
+      "model": "lus",
+      "exactModel": true
+    },
+    "kokb": {
+      "model": "trp",
+      "exactModel": true
+    },
+    "kar": {
+      "model": "as",
+      "exactModel": false
+    },
+    "dim": {
+      "model": "as",
+      "exactModel": false
+    },
+    "mis": {
+      "model": "as",
+      "exactModel": false
+    },
+    "ao": {
+      "model": "as",
+      "exactModel": false
+    },
+    "ang": {
+      "model": "as",
+      "exactModel": false
+    },
+    "sumi": {
+      "model": "as",
+      "exactModel": false
+    },
+    "kon": {
+      "model": "as",
+      "exactModel": false
+    },
+    "chak": {
+      "model": "bn",
+      "exactModel": false
+    },
+    "hmar": {
+      "model": "lus",
+      "exactModel": false
+    },
+    "tang": {
+      "model": "lus",
+      "exactModel": false
+    },
+    "rong": {
+      "model": "lus",
+      "exactModel": false
+    },
+    "adi": {
+      "model": "as",
+      "exactModel": false
+    },
+    "apa": {
+      "model": "as",
+      "exactModel": false
+    },
+    "nyi": {
+      "model": "as",
+      "exactModel": false
+    },
+    "monp": {
+      "model": "bo",
+      "exactModel": false
+    },
+    "wan": {
+      "model": "as",
+      "exactModel": false
+    }
+  }
+}
